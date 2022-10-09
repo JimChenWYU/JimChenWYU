@@ -4,6 +4,6 @@
 
 > Walk steps step by step!
 
-🇨🇳 China Guangzhou 🕹Web developer
+🇨🇳 China Guangzhou 🕹Program designer
 
 [imjimchen@163.com](mailto:imjimchen@163.com)
